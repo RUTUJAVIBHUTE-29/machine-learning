@@ -1,0 +1,20 @@
+{
+  "cooked_rice": {
+    "display_name": "Cooked Rice",
+    "kcal_per_100g": 130,
+    "density_g_per_cm3": 1.30,
+    "default_thickness_cm": 2.5
+  },
+  "grilled_chicken_breast": {
+    "display_name": "Grilled Chicken Breast",
+    "kcal_per_100g": 165,
+    "density_g_per_cm3": 1.05,
+    "default_thickness_cm": 1.5
+  },
+  "salad_mixed_veg": {
+    "display_name": "Mixed Salad (raw)",
+    "kcal_per_100g": 25,
+    "density_g_per_cm3": 0.45,
+    "default_thickness_cm": 1.0
+  }
+}
